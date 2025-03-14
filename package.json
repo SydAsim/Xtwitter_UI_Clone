@@ -6,8 +6,5 @@
     "scripts": {
         "build": "npx tailwindcss -i ./CSS/input.css -o ./CSS/output.css --watch",
         "dev": "vite"
-    },
-    "devDependencies": {
-        "vite": "^6.2.1"
     }
 }
